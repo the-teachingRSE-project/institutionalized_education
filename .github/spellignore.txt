@@ -1,5 +1,6 @@
 ADDME
 AllDigital
+Ausbildung
 anonymise
 APIs
 artifacts
@@ -26,6 +27,7 @@ codebases
 CodeMeta
 CodeRefinery
 comp-lvls-se
+Cogniterra
 Coursera
 CRSP
 CSE
@@ -71,6 +73,10 @@ findability
 findable
 FIXME
 Forschung
+Forschungspraktikum
+Forschungspraktika
+formatter
+formatters
 Friedrich
 Fortran
 franca
@@ -106,6 +112,7 @@ KSA
 KSAs
 LIBS
 lingua
+linter
 linters
 LLM
 LLMs
@@ -135,6 +142,7 @@ pre-recorded
 pre-requisite
 profilers
 proto
+pseudocode
 PRs
 RDM
 RDM-RSE
