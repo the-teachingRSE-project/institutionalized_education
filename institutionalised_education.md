@@ -43,7 +43,13 @@ The digitalization of science is moving ever forward, and requires a specialized
 specialize into the interface between science and digital tools.
 We have identified the RSE as this particular person equipped with the values and skills we have outlined in [previous pub].
 We argue that the current opportunistic approach is not sufficient to create the required number of RSEs.
+Using some experiences from our workshops we can set up a numerical argument as detailed further below.
+But even, if we neglect that and declare that the current rate is sufficient,
+having an institution that trains specialized RSE Masters is beneficial for stakeholders already
+since their hiring processes can be streamlined and their career development can be more focused.
 This requires that specialized centers exist that focus solely on RSE graduates. Our previous publication has already given a hint with a Master program that could follow up on a STEM Bachelor.
+
+## Benefitting Stakeholders
 There are several beneficiaries that would benefit from having this kind of graduation path.
 First would be the to-be established RSE groups, whose integration in the academic system is detailed in another publication. Libraries who want to strengthen their digital services together with RDM.
 HPC Compute centers can benefit from graduates that cover the spectrum from HPC-RSE till Community support RSEs. Even outside of traditional academia there are beneficiaries in government 
@@ -51,10 +57,17 @@ organisations that perform their own research(e.g. PTB, RKI).
 Universities in particular could benefit from proper graduates, to offer services in their RSE-related groups that are competitive with other universities. It would also be easier
 for the departments themselves to find suitable candidates for filling an embedded-RSE position.
 
+## An opportunity for interdisciplinary collaboration.
 Offering a dedicated RSE graduation program is also an opportunity for a university 
 to showcase its interdisciplinarity. RSE are very often required to work with a diverse
 set of domain scientitsts. Therefore establishing such a course requires a great deal 
 of interdisciplinary synchronization that could result in a campus-wide network.
+Also, if the RSE course is taught as a master, the university brings more fuidity into the Bachelor/Masters structures.
+
+## How many RSEs would we need
+Using the feedback we got at one of our workshops, we conclude that a developed country of 100 Mio inhabitants could need up to ~500 RSEs per year(Insert proper number here).
+
+Having established that we require formal institutions for the training of RSEs we detail in this publication what properties they posess, how they are integrated into an organisation, what curriculum they teach, and where to get their teachers. Assuming these structures exist, we will then move on to detail how the RSE educating institution can be integrated into the rest of the academic system, and what their outreach potentials into the domains are.
 
 
 # Organisational Infrastructures
