@@ -25,7 +25,7 @@ This paper is intended as a collaborative effort and we are looking for input fr
 
 **We have regular meetings, out meeting notes can be found here: https://pad.gwdg.de/s/pVBQ3Sh7Z#**
 
-**If you want to get notified of our calls, and participate in the discussion by E-Mail, we have a Mailing-List: https://lists.uni-wuerzburg.de/mailman/listinfo/teachingrse**
+**If you want to get notified of our calls, and participate in the discussion by E-Mail, we have a Mailing-List: jmu-teachingrse@listserv.dfn.de**
 
 You can contribute in various ways:
 
