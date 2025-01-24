@@ -59,13 +59,15 @@ for the departments themselves to find suitable candidates for filling an embedd
 
 ## An opportunity for interdisciplinary collaboration.
 Offering a dedicated RSE graduation program is also an opportunity for a university 
-to showcase its interdisciplinarity. RSE are very often required to work with a diverse
+to showcase its interdisciplinarity. RSEs are very often required to work with a diverse
 set of domain scientitsts. Therefore establishing such a course requires a great deal 
 of interdisciplinary synchronization that could result in a campus-wide network.
-Also, if the RSE course is taught as a master, the university brings more fuidity into the Bachelor/Masters structures.
+Also, if the RSE course is taught as a master, the university brings more fluidity into the Bachelor/Masters structures since bachelor graduates 
+of most scientific domains should be able to take this master's course.
+A strong interaction with existing Software Engineering departments is advised, in order to synergetically integrate their existing courses into the program.
 
 ## How many RSEs would we need
-Using the feedback we got at one of our workshops, we conclude that a developed country of 100 Mio inhabitants could need up to ~500 RSEs per year(Insert proper number here).
+Using the feedback we got at one of our workshops, we conclude that a developed country of 100 Mio inhabitants could need up to ~500 RSEs per year(Insert proper numbers here).
 
 Having established that we require formal institutions for the training of RSEs we detail in this publication what properties they posess, how they are integrated into an organisation, what curriculum they teach, and where to get their teachers. Assuming these structures exist, we will then move on to detail how the RSE educating institution can be integrated into the rest of the academic system, and what their outreach potentials into the domains are.
 
