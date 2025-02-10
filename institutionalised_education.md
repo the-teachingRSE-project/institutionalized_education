@@ -236,6 +236,26 @@ The tasks of these centres is facilitated by reusing the work of initiatives lik
 Naturally, other existing structures outside of academia mentioned before like the Carpentries [@Carpentries] can be nicely integrated
 and offered to a broad audience on a regular basis.
 
+# Which impact can dedicated RSE teaching Institutions have?
+
+## The local impact of an RSE institution e.g into a univers
+The benefits to a university are numerous. Having proper RSE students will improve the digital literacy in the domains.
+Local RSEs can reach out into the domain sciences and drive the transition to digital science.
+A local RSE teaching institutions can together with other institutions host regular events
+like maintainathons, and reproducibility hackathons. The RSE institutions form a natural point
+where cross-domain fertilization can occur. And, importantly, adopting RSE institutions early on,
+can enable universities to distinguish themselves from the competition.
+Regular training session raise the level of proficiency with the use of digital tools in the domains,
+covering e.g. topics like CI or CD.
+Exisiting trans-national entities like the carpentries or the NHR Training-Academy can be easily 
+integrated.
+Having RSE groups locally will lead to the portfolio of the group being adapted to the needs of the universities.
+
+## The cross-regional impact of an institution
+RSEs have a natural strong tendencies to form networks, given that their numbers are less than in
+exisiting domains. These networks can be leveraged to increase the visibility of a university
+as a place for digital science.
+
 # How do we reach people in different stages of their careers?
 
 Many current RSEs have found their way to being an RSE during their doctoral studies.
