@@ -239,13 +239,25 @@ and offered to a broad audience on a regular basis.
 
 # How do we reach people in different stages of their careers?
 
-Many current RSEs have found their way to being an RSE during their doctoral studies.
-This transition usually happens slowly. You start programming a tool, and someone else likes it, it becomes known that you have programming skills and suddenly you are the RSE of the group that everyone would like to have in their projects.
-If you enjoy this role, you need to be aware that there is a RSE career path as well as that specialised training materials exist.
+During the academic education there are several stages where awareness to the existence of an RSE career path should be raised.
+**Begin of studies**
+It should be mentioned at the beginning of the studies of a particular field that it is an option to supplement the expertise of this subject with skills in programming and software engineering to become an RSE in this field.
+**After a Bachelors degree**
+Students should be made aware that it is possible to continue with a Masters in Research Software Engineering.
+**After a Masters degree**
+Students who already hold a Master degree that are looking for promotion could either look for a dedicated RSE promotion at a group that is involved in a RSE masters programme or they could look for additional training during a promotion that is leaning into computation anyway to potentially become an RSE afterwards.
+Those students not looking for a promotion should be aware of the option to directly start working in an existing RSE department.
+**After promotion**
+Lastly, an RSE career should be known to be an alternative path to the traditional career as a scientist after obtaining a doctoral degree.  
+<!-- Many current RSEs have found their way to being an RSE during their doctoral studies.
+This transition usually happens slowly.
+You start programming a tool, and someone else likes it, it becomes known that you have programming skills and suddenly you are the RSE of the group that everyone would like to have in their projects.
+If you enjoy this role, you need to be aware that there is a RSE career path as well as that specialised training materials exist. -->
 One place to generate awareness of the career option and training is universities' doctoral on-boarding processes or right thereafter.
 RSE training could be offered as elective courses at universities organised by some central organisation.
-RSE could be presented as a career path in suitable events. Since many RSE-minded people also at some point find their way to an HPC cluster, mailing lists of said clusters could be utilised to advertise RSE courses.
-One important aspect to think about is also the wording in documents advertising these resources.
+RSE could be presented as a career path in suitable events.
+Since many RSE-minded people also at some point find their way to an HPC cluster, mailing lists of said clusters could be utilised to advertise RSE courses.
+One important aspect to think about, is also the wording in documents advertising these resources.
 Potential future RSEs might not know the term yet or know that the course advertised includes topics that are of interest to them.
 If the university or organisation has a GitHub/Lab organisation/project, having a banner there might reach the right people.
 Most important is that people working in IT help-desks know about the courses offered so that they can advise students/researchers on visiting the course/reviewing the materials if related questions are asked.
