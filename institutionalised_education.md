@@ -15,6 +15,7 @@ author:
   - Harald von Waldow
   - Moritz Schwarzmeier
   - Matthias Braun
+  - Simon Christ
 header-includes:
   - \input{preamble.sty}
 output:
@@ -239,17 +240,22 @@ and offered to a broad audience on a regular basis.
 # How do we reach people in different stages of their careers?
 
 Many current RSEs have found their way to being an RSE during their doctoral studies.
-This transition usually happens slowly. You start programming a tool, and someone else likes it, it becomes known that you have programming skills and suddenly you are the RSE of the group that everyone would like to have in their projects. If you enjoy this role, you need to be aware that there is a RSE career path as well as that specialised training materials exist. One place to generate awareness of the career option and training is universities' doctoral on-boarding processes or right thereafter.
-RSE training could be offered as elective courses at universities organised by some central organisation. RSE could be presented as a career path in suitable events. Since many RSE-minded people also at some point find their way to an HPC cluster, mailing lists of said clusters could be utilised to advertise RSE courses.
+This transition usually happens slowly. You start programming a tool, and someone else likes it, it becomes known that you have programming skills and suddenly you are the RSE of the group that everyone would like to have in their projects.
+If you enjoy this role, you need to be aware that there is a RSE career path as well as that specialised training materials exist.
+One place to generate awareness of the career option and training is universities' doctoral on-boarding processes or right thereafter.
+RSE training could be offered as elective courses at universities organised by some central organisation.
+RSE could be presented as a career path in suitable events. Since many RSE-minded people also at some point find their way to an HPC cluster, mailing lists of said clusters could be utilised to advertise RSE courses.
 One important aspect to think about is also the wording in documents advertising these resources.
-Potential future RSEs might not know the term yet or know that the course advertised includes topics that are of interest to them. If the university or organisation has a GitHub/Lab organisation/project, having a banner there might reach the right people. Most important is that people working in IT help-desks know about the courses offered so that they can advise students/researchers on visiting the course/reviewing the materials if related questions are asked.
+Potential future RSEs might not know the term yet or know that the course advertised includes topics that are of interest to them.
+If the university or organisation has a GitHub/Lab organisation/project, having a banner there might reach the right people.
+Most important is that people working in IT help-desks know about the courses offered so that they can advise students/researchers on visiting the course/reviewing the materials if related questions are asked.
 For an RSE it is important to be a part of a network with other RSEs, irrespective of the career level.
 A perfect first step for forming this network is topic-related conferences, workshops or meetups.
 Beyond that, there is the broader RSE community organised at the local and regional level with chapters or local/regional communities, at the national level with societies and the international RSE society.
 Each of them offers possibilities for connecting within or beyond an individual institution and is a great way to find like-minded people to grow a wider network and thereby facilitate the sharing of information on interesting events or help each other out.
 This available layered network can greatly benefit the RSE in finding help with issues outside of their own comfort zone
-and provides a welcoming, social safety net providing a home for the RSE. Since we feel providing aspiring RSEs this net
-is of utmost importance we envision compulsory events introducing that to young RSEs.
+and provides a welcoming, social safety net providing a home for the RSE.
+Since we feel providing aspiring RSEs this net is of utmost importance we envision compulsory events introducing that to young RSEs.
 Qualification badges are another venue, that RSEs to find people with the same technical interest.
 
 Short primers on RSE skills, infrastructure and good coding practices
