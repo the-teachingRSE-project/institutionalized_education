@@ -247,7 +247,7 @@ where cross-domain fertilization can occur. And, importantly, adopting RSE insti
 can enable universities to distinguish themselves from the competition.
 Regular training sessions raise the level of proficiency with the use of digital tools in the domains,
 covering e.g. topics like CI or CD.
-Exisiting trans-national entities like the carpentries or the NHR Training-Academy can be easily 
+Exisiting trans-national entities like The Carpentries or the NHR Training-Academy can be easily 
 integrated.
 Having RSE groups locally will lead to the portfolio of the group being adapted to the needs of the universities.
 
