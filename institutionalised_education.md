@@ -238,7 +238,7 @@ and offered to a broad audience on a regular basis.
 
 # Which impact can dedicated RSE teaching Institutions have?
 
-## The local impact of an RSE institution e.g into a univers
+## The local impact of an RSE institution e.g on a university
 The benefits to a university are numerous. Having proper RSE students will improve the digital literacy in the domains.
 Local RSEs can reach out into the domain sciences and drive the transition to digital science.
 A local RSE teaching institutions can together with other institutions host regular events
