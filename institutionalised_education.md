@@ -245,7 +245,7 @@ A local RSE teaching institutions can together with other institutions host regu
 like maintainathons, and reproducibility hackathons. The RSE institutions form a natural point
 where cross-domain fertilization can occur. And, importantly, adopting RSE institutions early on,
 can enable universities to distinguish themselves from the competition.
-Regular training session raise the level of proficiency with the use of digital tools in the domains,
+Regular training sessions raise the level of proficiency with the use of digital tools in the domains,
 covering e.g. topics like CI or CD.
 Exisiting trans-national entities like the carpentries or the NHR Training-Academy can be easily 
 integrated.
