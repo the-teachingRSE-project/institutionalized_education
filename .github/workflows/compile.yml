@@ -7,7 +7,7 @@ jobs:
       DIR: .
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: 'recursive'
       - name: Install pandoc
@@ -39,7 +39,7 @@ jobs:
     if: ${{ github.repository == 'the-teachingRSE-project/institutionalized_education' && github.ref == 'refs/heads/main' }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - uses: actions/download-artifact@v4
         with:
           path: github_artifacts
