@@ -46,7 +46,7 @@ jobs:
       - name: move
         run: |
           ls -R .
-          mkdir -p github_deploy && mv github_artifacts/*/* github_deploy
+          mkdir -p github_deploy && mv github_artifacts/* github_deploy
       - name: deploy on orphan branch
         uses: peaceiris/actions-gh-pages@v4
         with:
